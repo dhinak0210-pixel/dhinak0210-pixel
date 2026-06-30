@@ -146,18 +146,18 @@ class DhinakaranS:
 
 ---
 
-### 📊 Customer Segmentation Clustering
-**`Unsupervised Learning` `PCA` `K-Means++` `Silhouette Score`**
+### 🌍 Climate-Fed Orchestrator
+**`Federated Learning` `Differential Privacy` `CNN` `Carbon Optimization`**
 
-> Customer segmentation pipeline utilizing K-Means Clustering and Principal Component Analysis (PCA) to extract demographic segment profiles.
+> Eco-friendly federated learning orchestrator coordinating decentralized model training across global node configurations based on grid carbon intensity.
 
 | Metric | Value |
 |:---|:---:|
-| 🎯 Silhouette Score | **0.554** |
-| 👥 Optimal Clusters (K) | **5** |
-| 🔄 Preprocessing | **StandardScaler** |
+| 🌍 CO2 Reduction | **Up to 43.7%** |
+| 🔒 Privacy Guarantee | **Differential Privacy (ε < 1.0)** |
+| 🎯 Model Accuracy | **>94% (on non-IID partitions)** |
 
-[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/Customer-Segmentation-Clustering)
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/climate_fed_orchestrator)
 
 ---
 
