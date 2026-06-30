@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:6366f1,100:ec4899&height=220&section=header&text=Dhinakaran%20V&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=18&descAlignY=55&descColor=e8ecf4" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A7%A0+Deep+Learning+%7C+Computer+Vision+%7C+NLP+%7C+LLM+Systems;%F0%9F%9A%80+12%2B+Production+Projects+%7C+5+Live+Platforms+%7C+21+Repos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A7%A0+Deep+Learning+%7C+Computer+Vision+%7C+NLP+%7C+LLM+Systems;%F0%9F%9A%80+15%2B+Production+Projects+%7C+5+Live+Platforms+%7C+15+Repos" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -49,7 +49,7 @@ class DhinakaranV:
         }
     
     def current_focus(self):
-        return "Building production-grade ML systems & LLM applications"
+        return "Building practical ML applications & LLM systems"
 ```
 
 <br clear="right"/>
@@ -62,9 +62,9 @@ class DhinakaranV:
 
 | 🎯 Metric | 📊 Value |
 |:---:|:---:|
-| **Production Projects** | `12+` |
+| **Production Projects** | `15` |
 | **Live Platforms** | `5` |
-| **GitHub Repositories** | `21` |
+| **GitHub Repositories** | `15` |
 | **ML Models Trained** | `15+` |
 | **Pathology Classes** | `38` |
 | **Best Model Accuracy** | `91.14%` |
@@ -77,9 +77,11 @@ class DhinakaranV:
 <br/>
 ⭐ **GitHub Community Star** — Real-Time Object Detection App
 <br/>
-📜 **Coursera Professional Certificate** — Machine Learning & AI
+📜 **Coursera Professional Certificate** — Machine Learning & AI Specialization
 <br/>
-🚀 **12+ Independent Projects** — Built within months of starting, zero prior training
+🧠 **Google Cloud / Skills** — Introduction to Generative AI
+<br/>
+🚀 **15+ Independent Projects** — Built within months of starting, zero prior training
 
 </div>
 
@@ -132,10 +134,10 @@ class DhinakaranV:
 
 <div align="center">
 
-### 🌿 CropShield AI — Enterprise Pathogen Intelligence
+### 🌿 CropShield AI — Crop Pathology Classification App
 **`Computer Vision` `Transfer Learning` `Grad-CAM` `Generative AI`**
 
-> Production-grade deep learning platform for real-time crop disease detection across **38 pathology classes** and **14 crop species**
+> Interactive deep learning application for real-time crop disease detection across **38 pathology classes** and **14 crop species**
 
 | Metric | Value |
 |:---|:---:|
@@ -145,17 +147,17 @@ class DhinakaranV:
 | 🌾 Crop Species | **14** |
 | 📦 Model Size | **383 KB** |
 
-**Key Features:** Grad-CAM Explainability · LLM Agronomy Advisor · FastAPI Microservice · Multi-Language Reports · Docker Deployment
+**Key Features:** Grad-CAM Explainability · LLM Agronomy Advisor · FastAPI UI · Multi-Language Reports · Docker Deployment
 
 [![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/dhina4213/cropshield-ai)
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/cropshield-ai)
 
 ---
 
-### 🤖 NexusAI — Dual-Backend Self-Hosted LLM Platform
+### 🤖 NexusAI — Self-Hosted LLM Chat Interface
 **`LLM Engineering` `LoRA Fine-Tuning` `SSE Streaming` `Hot-Swappable Models`**
 
-> Premium ChatGPT alternative with **dual-backend architecture** — cloud API + self-hosted GPU inference with **6+ open-weight models**
+> LLM Chat interface with **dual-backend architecture** — cloud API + self-hosted GPU inference tunnels with **6+ open-weight models**
 
 **Key Features:** Live Model Hot-Swapping · 9 AI Personas · LoRA/QLoRA Fine-Tuning Pipeline · Colab T4 GPU Tunnel · Glassmorphism UI
 
@@ -164,10 +166,10 @@ class DhinakaranV:
 
 ---
 
-### 📊 ChurnAI — Enterprise Customer Churn Prediction
+### 📊 ChurnAI — Customer Churn Prediction Dashboard
 **`XGBoost` `SHAP Explainability` `SMOTE` `Stratified Cross-Validation`**
 
-> End-to-end production-grade churn prediction with **Explainable AI** dashboard — SHAP Waterfall, Beeswarm & Decision Path visualizations
+> Interactive churn prediction dashboard with **Explainable AI** — SHAP Waterfall, Beeswarm & Decision Path visualizations
 
 | Metric | Value |
 |:---|:---:|
@@ -183,23 +185,26 @@ class DhinakaranV:
 ### 🔍 RAG Intelligence Assistant
 **`ChromaDB` `BM25` `Reciprocal Rank Fusion` `Semantic Chunking`**
 
-> Enterprise-grade hybrid RAG system combining **vector search + sparse keyword ranking** with real-time streaming answers
+> Hybrid RAG assistant combining **vector search + sparse keyword ranking** with real-time response streaming
 
 [![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/dhina0210/rag-assistant)
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/rag-assistant)
 
 ---
 
-### 🎵 AI Music Generation System
-**`Transformer+VAE` `Diffusion Models` `Audio DSP` `Professional Standards Engine`**
+### 🏷️ AI Retail Shelf Monitor
+**`YOLOv8` `OpenCV` `FastAPI` `Streamlit` `PDFKit`**
 
-> Deep learning music synthesis using **Transformer+VAE** for symbolic generation and **Diffusion models** for audio, with professional quality controls
+> Prototype dashboard running YOLOv8 object detection on store shelf images, showcasing ROI configuration and camera status diagnostics
+
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/retail-shelf-monitor)
 
 ---
 
 ### 🎥 YouTube Rec Lite — Content-Based Recommendation Engine
 **`TF-IDF` `Cosine Similarity` `Gradio` `Modular Architecture`**
 
-> Content-based video recommendation engine using TF-IDF vectorization and cosine similarity for intelligent video matching
+> Content-based video recommendation engine using TF-IDF vectorization and cosine similarity for video matching
 
 [![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/dhina0210)
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/youtube-rec-lite)
@@ -232,10 +237,11 @@ class DhinakaranV:
 
 <div align="center">
 
-| 📜 Certification | 🏢 Issuer | 📅 Date |
-|:---|:---:|:---:|
-| **Foundations of Prompt Engineering** | Amazon Web Services (AWS) | June 2026 |
-| **Professional Certificate — ML & AI** | Coursera | 2026 |
+| 📜 Certification | 🏢 Issuer | 📅 Date | 🔗 Verify |
+|:---|:---:|:---:|:---:|
+| **Foundations of Prompt Engineering** | Amazon Web Services (AWS) | June 2026 | [View Certificate](aws_prompt_engineering_cert.pdf) |
+| **Introduction to Generative AI** | Google Cloud (Google Skills) | June 2026 | [Verify Badge](https://www.skills.google/public_profiles/65340dd7-fc2b-4bb1-89f3-aadfcaf5f06f/badges/24675796) |
+| **Professional Certificate — ML & AI** | Coursera | 2026 | [Verify Credential](https://coursera.org/share/9f0b8186946a3a4ac8d636f0da84ecd0) |
 
 </div>
 
