@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:6366f1,100:ec4899&height=220&section=header&text=Dhinakaran%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=18&descAlignY=55&descColor=e8ecf4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:6366f1,100:ec4899&height=220&section=header&text=Dhinakaran%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Deep%20Learning%20Developer&descSize=18&descAlignY=55&descColor=e8ecf4" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A7%A0+Deep+Learning+%7C+Computer+Vision+%7C+NLP+%7C+LLM+Systems;%F0%9F%9A%80+15%2B+Production+Projects+%7C+5+Live+Platforms+%7C+15+Repos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A7%A0+Deep+Learning+%7C+Computer+Vision+%7C+NLP+%7C+Classical+ML;%F0%9F%9A%80+15%2B+Production+Projects+%7C+5+Live+Platforms+%7C+15+Repos" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,7 +13,6 @@
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=000)](https://huggingface.co/dhina0210)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhina7250@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00d4aa)](https://github.com/dhinak0210-pixel)
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#-certifications)
 
 <br/>
 
@@ -34,7 +33,7 @@
 class DhinakaranS:
     def __init__(self):
         self.name = "Dhinakaran S"
-        self.role = "AI / ML Engineer"
+        self.role = "Machine Learning Engineer"
         self.education = "B.Tech AIML @ Kalasalingam University"
         self.batch = "2024 — 2028"
         self.location = "Tamil Nadu, India"
@@ -42,14 +41,14 @@ class DhinakaranS:
     def skills(self):
         return {
             "ml_frameworks": ["TensorFlow", "Scikit-learn", "XGBoost"],
-            "llm_stack": ["LangChain", "ChromaDB", "FAISS", "HuggingFace"],
+            "nlp_stack": ["TF-IDF", "Cosine Similarity", "NLTK", "SpaCy"],
             "cv_tools": ["Grad-CAM", "CLIP", "OpenCV", "MobileNetV2"],
             "deployment": ["Docker", "FastAPI", "Vercel", "HF Spaces"],
             "languages": ["Python", "TypeScript", "JavaScript"],
         }
     
     def current_focus(self):
-        return "Building practical ML applications & LLM systems"
+        return "Building practical ML applications & deep learning models"
 ```
 
 <br clear="right"/>
@@ -73,13 +72,9 @@ class DhinakaranS:
 
 <div align="center">
 
-🏅 **AWS Certified** — Foundations of Prompt Engineering (Amazon Web Services)
-<br/>
 ⭐ **GitHub Community Star** — Real-Time Object Detection App
 <br/>
 📜 **Coursera Professional Certificate** — Machine Learning & AI Specialization
-<br/>
-🧠 **Google Cloud / Skills** — Introduction to Generative AI
 <br/>
 🚀 **15+ Independent Projects** — Built within months of starting, zero prior training
 
@@ -99,15 +94,14 @@ class DhinakaranS:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 💬 NLP & Large Language Models
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+### 💬 NLP & Text Representation
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 👁️ Computer Vision & XAI
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badgeColor=white)
 ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-00C853?style=for-the-badge&logoColor=white)
 ![CLIP](https://img.shields.io/badge/CLIP-7B1FA2?style=for-the-badge&logoColor=white)
 
@@ -123,8 +117,6 @@ class DhinakaranS:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -135,7 +127,7 @@ class DhinakaranS:
 <div align="center">
 
 ### 🌿 CropShield AI — Crop Pathology Classification App
-**`Computer Vision` `Transfer Learning` `Grad-CAM` `Generative AI`**
+**`Computer Vision` `Transfer Learning` `Grad-CAM` `FastAPI`**
 
 > Interactive deep learning application for real-time crop disease detection across **38 pathology classes** and **14 crop species**
 
@@ -147,26 +139,29 @@ class DhinakaranS:
 | 🌾 Crop Species | **14** |
 | 📦 Model Size | **383 KB** |
 
-**Key Features:** Grad-CAM Explainability · LLM Agronomy Advisor · FastAPI UI · Multi-Language Reports · Docker Deployment
+**Key Features:** Grad-CAM Explainability · Automated Preprocessing Pipelines · FastAPI & Streamlit UI · Docker Deployment
 
 [![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/dhina4213/cropshield-ai)
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/cropshield-ai)
 
 ---
 
-### 🤖 NexusAI — Self-Hosted LLM Chat Interface
-**`LLM Engineering` `LoRA Fine-Tuning` `SSE Streaming` `Hot-Swappable Models`**
+### 📊 Customer Segmentation Clustering
+**`Unsupervised Learning` `PCA` `K-Means++` `Silhouette Score`**
 
-> LLM Chat interface with **dual-backend architecture** — cloud API + self-hosted GPU inference tunnels with **6+ open-weight models**
+> Customer segmentation pipeline utilizing K-Means Clustering and Principal Component Analysis (PCA) to extract demographic segment profiles.
 
-**Key Features:** Live Model Hot-Swapping · 9 AI Personas · LoRA/QLoRA Fine-Tuning Pipeline · Colab T4 GPU Tunnel · Glassmorphism UI
+| Metric | Value |
+|:---|:---:|
+| 🎯 Silhouette Score | **0.554** |
+| 👥 Optimal Clusters (K) | **5** |
+| 🔄 Preprocessing | **StandardScaler** |
 
-[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/dhina0210/nexusai-llm)
-[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/nexusai-llm)
+[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/Customer-Segmentation-Clustering)
 
 ---
 
-### 📊 ChurnAI — Customer Churn Prediction Dashboard
+### 📈 ChurnAI — Customer Churn Prediction Dashboard
 **`XGBoost` `SHAP Explainability` `SMOTE` `Stratified Cross-Validation`**
 
 > Interactive churn prediction dashboard with **Explainable AI** — SHAP Waterfall, Beeswarm & Decision Path visualizations
@@ -182,18 +177,8 @@ class DhinakaranS:
 
 ---
 
-### 🔍 RAG Intelligence Assistant
-**`ChromaDB` `BM25` `Reciprocal Rank Fusion` `Semantic Chunking`**
-
-> Hybrid RAG assistant combining **vector search + sparse keyword ranking** with real-time response streaming
-
-[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/dhina0210/rag-assistant)
-[![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/rag-assistant)
-
----
-
 ### 🏷️ AI Retail Shelf Monitor
-**`YOLOv8` `OpenCV` `FastAPI` `Streamlit` `PDFKit`**
+**`YOLOv8` `OpenCV` `FastAPI` `Streamlit`**
 
 > Prototype dashboard running YOLOv8 object detection on store shelf images, showcasing ROI configuration and camera status diagnostics
 
@@ -206,7 +191,6 @@ class DhinakaranS:
 
 > Content-based video recommendation engine using TF-IDF vectorization and cosine similarity for video matching
 
-[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/dhina0210)
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/youtube-rec-lite)
 
 </div>
@@ -239,8 +223,6 @@ class DhinakaranS:
 
 | 📜 Certification | 🏢 Issuer | 📅 Date | 🔗 Verify |
 |:---|:---:|:---:|:---:|
-| **Foundations of Prompt Engineering** | Amazon Web Services (AWS) | June 2026 | [View Certificate](aws_prompt_engineering_cert.pdf) |
-| **Introduction to Generative AI** | Google Cloud (Google Skills) | June 2026 | [Verify Badge](https://www.skills.google/public_profiles/65340dd7-fc2b-4bb1-89f3-aadfcaf5f06f/badges/24675796) |
 | **Professional Certificate — ML & AI** | Coursera | 2026 | [Verify Credential](https://coursera.org/share/9f0b8186946a3a4ac8d636f0da84ecd0) |
 
 </div>
@@ -258,7 +240,6 @@ Let's connect and build something amazing together!
 <br/>
 
 [![Email Me](https://img.shields.io/badge/dhina7250@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhina7250@gmail.com)
-[![Call Me](https://img.shields.io/badge/+91%2093613%2066176-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919361366176)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhina-dhinakaran-7844833a9)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-FFD21E?style=for-the-badge)](https://huggingface.co/dhina0210)
 
