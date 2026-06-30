@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:6366f1,100:ec4899&height=220&section=header&text=Dhinakaran%20V&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=18&descAlignY=55&descColor=e8ecf4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:6366f1,100:ec4899&height=220&section=header&text=Dhinakaran%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=18&descAlignY=55&descColor=e8ecf4" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A7%A0+Deep+Learning+%7C+Computer+Vision+%7C+NLP+%7C+LLM+Systems;%F0%9F%9A%80+15%2B+Production+Projects+%7C+5+Live+Platforms+%7C+15+Repos" alt="Typing SVG" /></a>
@@ -31,9 +31,9 @@
 ## 🧬 About Me
 
 ```python
-class DhinakaranV:
+class DhinakaranS:
     def __init__(self):
-        self.name = "Dhinakaran V"
+        self.name = "Dhinakaran S"
         self.role = "AI / ML Engineer"
         self.education = "B.Tech AIML @ Kalasalingam University"
         self.batch = "2024 — 2028"
