@@ -182,6 +182,7 @@ class DhinakaranS:
 
 > Prototype dashboard running YOLOv8 object detection on store shelf images, showcasing ROI configuration and camera status diagnostics
 
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-TryCloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://shopzilla-cards-invision-qualifications.trycloudflare.com/)
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/retail-shelf-monitor)
 
 ---
@@ -191,6 +192,7 @@ class DhinakaranS:
 
 > Content-based video recommendation engine using TF-IDF vectorization and cosine similarity for video matching
 
+[![Live Demo](https://img.shields.io/badge/🔴%20Live%20Demo-HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/spaces/dhina0210/youtube-rec-lite)
 [![GitHub](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dhinak0210-pixel/youtube-rec-lite)
 
 </div>
